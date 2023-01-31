@@ -1,5 +1,5 @@
 # Counter-App-Assignment
 Counter App Assignment For Pep Class
 
+![assignment-2](https://user-images.githubusercontent.com/57222581/215788780-c6758964-58dc-4139-ae53-84480bba8acf.gif)
 
-![ezgif-1-be4a4aefbb](https://user-images.githubusercontent.com/121122397/215675534-6f09bb49-b713-4263-8bbd-4d505ecf8695.gif)
